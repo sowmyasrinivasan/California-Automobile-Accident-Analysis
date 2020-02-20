@@ -1,6 +1,7 @@
 #Ignore Mac system files
 .DS_store
 
-#Ignore full dataset csv
+#Ignore full dataset csv and the california csv (too big)
 US_Accidents_Dec19 2.csv
+cal.csv
 
