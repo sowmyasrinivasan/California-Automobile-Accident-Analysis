@@ -6,3 +6,6 @@ US_Accidents_Dec19 2.csv
 cal.csv
 api_keys.py
 US_Accidents_Dec19.csv
+export.html
+__pycache__/*.*
+__pycache__/*
