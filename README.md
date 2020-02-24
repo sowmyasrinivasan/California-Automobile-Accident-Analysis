@@ -19,9 +19,17 @@ Here are our recommendations:
 * United States Census Api
   * https://www.census.gov/data/developers/data-sets/popest-popproj/popest.Vintage_2016.html
 
+### Technologies used:
+
+* Python
+* Jupyter Notebook
+ * Matplotlib
+ * Pandas
+
 ### Research Questions:
 
 #### Nice to know
+
 * What month are people in more accidents?
 * Average accident severity of each county?
 * Most common time of day for accidents?
