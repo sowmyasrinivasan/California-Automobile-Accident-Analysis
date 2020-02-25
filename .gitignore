@@ -4,5 +4,13 @@
 #Ignore full dataset csv and the california csv (too big)
 US_Accidents_Dec19 2.csv
 cal.csv
+api_keys.py
+US_Accidents_Dec19.csv
+export.html
 cal_weather.csv
+<<<<<<< HEAD
 .ipynb_checkpoints
+=======
+__pycache__/*.*
+__pycache__/*
+>>>>>>> 31a22c9888a9108f05ddea09200ddfbb11610eab
