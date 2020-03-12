@@ -1,14 +1,12 @@
-# Project-1
 # California Accident Analysis 
 Team Members: Tosveena Thomas, Alli Kruger, Weiqi Liang(Vicky), Sowmya Srinivasan
 
 
 ## When should California Highway Patrol increase staff  to prevent accidents? 
-The CHP came to us with the data for all accidents in California and asked when they should increase staff patrols. 
-Here are our recommendations:
+If the CHP came to us with the data for all accidents in California asking about when they should increase staff patrols, this is the analysis we would present them. Analysis done with Pandas, visulizations done with Matplotlib and Pandas. 
 
 
-### Datasets to be Used and where to find them:
+### Datasets:
 
 * Accidents dataset
   * Found here: https://www.kaggle.com/sobhanmoosavi/us-accidents
@@ -19,16 +17,10 @@ Here are our recommendations:
 * United States Census Api
   * https://www.census.gov/data/developers/data-sets/popest-popproj/popest.Vintage_2016.html
 
-### Technologies used:
-
-* Python
-* Jupyter Notebook
- * Matplotlib
- * Pandas
 
 ### Research Questions:
 
-#### Nice to know
+#### General
 
 * What month are people in more accidents?
 * Average accident severity of each county?
